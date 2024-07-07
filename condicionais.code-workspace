@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../condicionais"
+		},
+		{
+			"path": "../Repeticoes"
+		},
+		{
+			"path": "../TABUADA"
+		},
+		{
+			"path": "../myCalculator"
+		},
+		{
+			"path": "../LAMPADA"
+		},
+		{
+			"path": "../countdown_jsol"
+		},
+		{
+			"path": "../objetos"
+		},
+		{
+			"path": "../CLASSES"
+		},
+		{
+			"path": "../LandingPageCCXP22"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "api"
+	}
+}
